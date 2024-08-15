@@ -1,9 +1,3 @@
-Developer - Utsav Hingar
-
-# Task 3
-#Payment Gateway Integration 
-Website Link-https://220800.000webhostapp.com/
-
 ## Table of contents
 * Homepage
 * Payment Gateway Interface
